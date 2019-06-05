@@ -1,32 +1,32 @@
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MRTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MRTV
 http://162.244.80.58:1935/mrtv/mrtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MRTV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MRTV4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MRTV NRC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MRTV NRC
 http://162.244.80.58:1935/nrc/nrc.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MRTV ENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MRTV ENT
 http://162.244.80.58:1935/mrtvent/mrtvent177b/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MITV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MITV
 http://162.244.80.58:1935/mitv/mitv.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MNTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MNTV
 http://162.244.80.58:1935/mntv/mntv176/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MWD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MWD
 http://103.91.189.205:8081/zg4/mwd/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MWD DOC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MWD DOC
 http://103.91.189.205:8081/zg4/mwddoc/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				5 Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",5 Plus
 103.91.189.205:8081/zg4/19/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				CH7
+##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",CH7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				CH9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",CH9
 http://162.244.80.58:1935/channel9/channel9.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				CHK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",CHK
 http://162.244.80.58:1935/live/channelk.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				DVB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",DVB
 http://162.244.80.58:1935/dvb/dvb.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				HLUTTAW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",HLUTTAW
 http://162.244.80.58:1935/hluttaw/hluttaw.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MAHAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MAHAR
 http://162.244.80.58:1935/mahar/mahar.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR"   tvg-logo="MYANMAR",				MAHAR TV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Myanmar",MAHAR TV2
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
